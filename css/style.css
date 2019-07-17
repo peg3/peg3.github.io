@@ -59,7 +59,7 @@ h2 {
 /* --------------------- */
 
 .first-view {
-  background-image: url(..//first_view.jpg);
+  background-image: url(../js/first_view.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
